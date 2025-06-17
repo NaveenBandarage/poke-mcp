@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/naveenbandarage-poke-mcp-badge.png)](https://mseep.ai/app/naveenbandarage-poke-mcp)
+
 [![smithery badge](https://smithery.ai/badge/@NaveenBandarage/poke-mcp)](https://smithery.ai/server/@NaveenBandarage/poke-mcp)
 ## Overview
 
