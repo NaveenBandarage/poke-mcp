@@ -1,6 +1,11 @@
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/naveenbandarage-poke-mcp-badge.png)](https://mseep.ai/app/naveenbandarage-poke-mcp)
 
 [![smithery badge](https://smithery.ai/badge/@NaveenBandarage/poke-mcp)](https://smithery.ai/server/@NaveenBandarage/poke-mcp)
+
+<a href="https://glama.ai/mcp/servers/@NaveenBandarage/poke-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@NaveenBandarage/poke-mcp/badge" alt="Poke-MCP MCP server" />
+</a>
+
 ## Overview
 
 Poke-MCP is a Model Context Protocol (MCP) server that provides Pokémon information through a standardized interface. It connects to the [PokeAPI](https://pokeapi.co/) to fetch Pokémon data and exposes it through MCP tools that can be used by any MCP-compatible client, such as Claude Desktop App, Continue, Cline, and others.
